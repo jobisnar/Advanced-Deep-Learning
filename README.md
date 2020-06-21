@@ -5,7 +5,7 @@ This project is a Pytorch reproduction of a semantic segmentation network that w
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/tree/master/chapter12-segmentation
 
 
-In this link is the pre-trained weights for batch size = 5, epoch = 40 <br>
+In the link below, is a pre-trained weights file with batch size = 5, epochs = 40 <br>
 https://drive.google.com/file/d/1K9hGNf2aRlDiLuxoC1FhAmoCzNzFr4mR/view?usp=sharing
 
 ### Below are some examples of the output images 
