@@ -1,13 +1,7 @@
 # Advanced-Deep-Learning
 CoE 197F advanced deep learning project
-[[images/0000107-input.png]]
-[[images/0000107-mask-epoch-40.png]]
 
-![input train image](https://github.com/jobisnar/Advanced-Deep-Learning/tree/master/images/0000107-input.png?raw=true)
-
-![output train image](https://github.com/jobisnar/Advanced-Deep-Learning/tree/master/images/0000107-mask-epoch-40.png?raw=true)
-
-<img width="300" alt="Input train image" src="https://github.com/jobisnar/Advanced-Deep-Learning/blob/master/images/0000107-input.png">
-<img width="300" alt="Input train image" src="https://github.com/jobisnar/Advanced-Deep-Learning/blob/master/images/0000107-mask-epoch-40.png">
-
-<img src="https://raw.githubusercontent.com/jobisnar/Advanced-Deep-Learning/master/images/0000107-input.png">
+###Input train image
+<img width="400" alt="Input train image" src="https://github.com/jobisnar/Advanced-Deep-Learning/blob/master/images/0000107-input.png">
+###Output train image
+<img width="400" alt="Input train image" src="https://github.com/jobisnar/Advanced-Deep-Learning/blob/master/images/0000107-mask-epoch-40.png">
