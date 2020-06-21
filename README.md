@@ -17,6 +17,7 @@ epochs: set the number of epochs. If you load a pretrained weight that has alrea
 save: set to True if you want to automatically save weights at the end of training<br>
 restore_weights_path: the filename of the pre-trained or saved weights you want to load.<br>
 evaluate: set to True if you want to evaluate the network using the test set after training it.<br>
+device: set device to cuda or cpu.<br>
 
 can run "fcn.eval()" on next line of code if you want to run evaluation on the test set separately.<br>
 
@@ -30,6 +31,10 @@ image_file: can be set to a specific image filename when evaluate is set to true
 root_dir: directory for the dataset<br>
 shuffle: shuffles data when training<br>
 dataset: name of dataset<br>
+plot: set to True if you want to save sample semantic segmentation mask output of test set<br>
+in_channels: how many channels for input (3 for RGB)<br>
+save_dir: save directory for weights<br>
+
 
 
 def __init__(self, restore_weights_path = "", label_file = "segmentation_train.npy", 
