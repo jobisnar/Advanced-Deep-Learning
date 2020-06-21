@@ -1,6 +1,5 @@
-# Advanced Deep Learning
+# CoE 197F Advanced Deep Learning Project
 ## Semantic Segmentation Network
-### CoE 197F advanced deep learning project
 
 In this link is the pre-trained weights for batch size = 5, epoch = 40
 
