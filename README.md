@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1K9hGNf2aRlDiLuxoC1FhAmoCzNzFr4mR/view?usp=shari
 ### Running the Semantic Segmentation Network
 To run the code, we enter this example line of code inside the jupyter notebook: <br>
 
-fcn = FCN(train = True, batch_size = 5, epochs = 40, save = True, device = 'cuda')<br>
+> fcn = FCN(train = True, batch_size = 5, epochs = 40, save = True, device = 'cuda')<br>
 
 **train**: set to True if you want to train the network<br>
 **batch_size**: set the batch size<br>
