@@ -7,9 +7,4 @@ CoE 197F advanced deep learning project
 
 ![output train image](https://github.com/jobisnar/Advanced-Deep-Learning/tree/master/images/0000107-mask-epoch-40.png?raw=true)
 
-<img
-src=“images/0000107-input.png”
-raw=true
-alt=“Input train image”
-style=“margin-right: 10px;”
-/>
+<img src=“images/0000107-input.png”>
