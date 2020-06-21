@@ -1,6 +1,8 @@
 # Advanced-Deep-Learning
 CoE 197F advanced deep learning project
 
+In this link is the pre-trained weights for batch size = 5, epoch = 40
+https://drive.google.com/file/d/1K9hGNf2aRlDiLuxoC1FhAmoCzNzFr4mR/view?usp=sharing
 
 ### Below are some examples of the output images 
 
