@@ -1,11 +1,11 @@
 # CoE 197F Advanced Deep Learning Project
 ## Semantic Segmentation Network
 
-This project is a Pytorch reproduction of a semantic segmentation network that was originally written in Keras: 
+This project is a Pytorch reproduction of a semantic segmentation network that was originally written in Keras: <br>
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/tree/master/chapter12-segmentation
 
 
-In this link is the pre-trained weights for batch size = 5, epoch = 40
+In this link is the pre-trained weights for batch size = 5, epoch = 40 <br>
 https://drive.google.com/file/d/1K9hGNf2aRlDiLuxoC1FhAmoCzNzFr4mR/view?usp=sharing
 
 ### Below are some examples of the output images 
